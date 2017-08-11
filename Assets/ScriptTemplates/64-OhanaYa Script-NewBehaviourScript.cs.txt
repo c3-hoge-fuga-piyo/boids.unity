@@ -1,0 +1,14 @@
+using UnityEngine;
+using UnityEngine.Assertions;
+
+namespace OhanaYa
+{
+    public sealed class #SCRIPTNAME# : MonoBehaviour
+    {
+        #region Serialized Properties
+        #endregion
+
+        #region Unity Events
+        #endregion
+    }
+}
